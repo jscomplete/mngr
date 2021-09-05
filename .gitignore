@@ -1,0 +1,10 @@
+logs
+_.log
+npm-debug.log_
+node_modules
+.npm
+.vscode/
+.DS_Store
+
+public/bundle.js
+public/bundle.js.map
